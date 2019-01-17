@@ -1,3 +1,3 @@
 FROM alpine
 
-ENTRYPOINT /bin/bash
+ENTRYPOINT /bin/sh
